@@ -9,3 +9,5 @@ Estar en la carpeta
 git init
 git remote add origin url-del-repositorio:https://github.com/ecomy-cr/html_parallax_universe.git
 git push origin master
+
+YOUTUBE COURSE CANAL: Coding Snow
